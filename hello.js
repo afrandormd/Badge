@@ -1,1 +1,1 @@
-console.log("hello from github")
+const pair = "Extradinaire";
